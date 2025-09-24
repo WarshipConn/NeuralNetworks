@@ -1,3 +1,7 @@
+Note: the current jupyter notebook might be too large to be viewed on GitHub directly, please use the following link instead: 
+
+NBViewer link to show large notebook: https://nbviewer.org/github/WarshipConn/NeuralNetworks-ComputerVision/blob/main/ResearchDocument.ipynb
+
 # Neural Network Fundamentals with Computer Vision
 By David Gao
 
